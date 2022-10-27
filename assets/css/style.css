@@ -136,6 +136,7 @@ body {
   padding: 0.5%;
   margin: 0.5%;
   border-style: solid;
+  border-width: 10px;
   border-color: var(--light-pink);
   box-shadow: 0 4px 8px 0 var(--jet);
   transition: 0.3s;
@@ -160,6 +161,7 @@ body {
   padding: 0.5%;
   margin: 0.5%;
   border-style: solid;
+  border-width: 10px;
   border-color: var(--light-pink);
   box-shadow: 0 4px 8px 0 var(--jet);
   transition: 0.3s;
