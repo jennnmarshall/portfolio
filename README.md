@@ -4,7 +4,7 @@
 
 This project created a portofio page to showcase my work built from the ground up using HTML and CSS. It is a showcase of what I have learned in the first 2 weeks of coding bootcamp. The CSS utilizes flexbox and variables for style and positioning. I intend to build this page further with the additional skills I learn from this class. The link to the deployed site is below:
 
-https://jennnmarshall.hithub.io/portfolio
+https://jennnmarshall.github.io/portfolio
 
 ## Installation
 
